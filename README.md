@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 7th semester Data Science student at Maturi Venkata Subba Rao Engineering College with a strong interest in data-driven problem solving and analytical thinking. I focus on understanding core technical concepts such as statistics, machine learning fundamentals, and data analysis methodologies. I enjoy working with structured problem-solving approaches and continuously improving my technical knowledge and logical reasoning skills. I aim to build a strong foundation in data science and apply it effectively in real-world scenarios.
+I am a 8th semester Data Science student at Maturi Venkata Subba Rao Engineering College with a strong interest in data-driven problem solving and analytical thinking. I focus on understanding core technical concepts such as statistics, machine learning fundamentals, and data analysis methodologies. I enjoy working with structured problem-solving approaches and continuously improving my technical knowledge and logical reasoning skills. I aim to build a strong foundation in data science and apply it effectively in real-world scenarios.
 
 
 ## 🌐 Socials:
